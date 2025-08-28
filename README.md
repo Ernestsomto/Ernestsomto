@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hey! 👋, I'm Asokwonye Somto Ernest</h1>
-<h3 align="center">A High spirit-passion driven individual Building 3d environment for animation studios and Junior web dev.</h3>
+<h3 align="center">A High spirit-passion driven individual Building 3d environment for animation studios and Web dev.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernestsomto" alt="ernestsomto" /></a> </p>
 
